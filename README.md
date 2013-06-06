@@ -31,16 +31,17 @@ Collection of datasets that are easily available for your convenience via Clouda
   - Summary: Oakland unified schools; general information on Oakland schools (location, charter status etc)
   - Source: http://data.openoakland.org/dataset/oakland-unified-schools
   - Most recent year: 2012-2013
-  - Updated: yearly
+  - Updated: annually
 
 ###businesses_sf
 
   - Summary: Data regarding businesses registered in San Francisco
   - Source: https://data.sfgov.org/Business-and-Economic-Development/Businesses-Registered-in-San-Francisco-Active/funx-qxxn
   - Most recent update: Week of 6/3/2013
-  - Updates: weekly
+  - Updated: weekly
 
-  
-
-  
-
+###sf_mental_health_facilities
+  - Summary: General info on and locations of mental health treatment facilities in the San Francisco area
+  - Source: http://findtreatment.samhsa.gov/MHTreatmentLocator/faces/geographicSearch.jspx
+  - Most recent update: 6/6/2013
+  - Updated: annually 
