@@ -33,6 +33,13 @@ Collection of datasets that are easily available for your convenience via Clouda
   - Most recent year: 2012-2013
   - Updated: yearly
 
+###businesses_sf
+
+  - Summary: Data regarding businesses registered in San Francisco
+  - Source: https://data.sfgov.org/Business-and-Economic-Development/Businesses-Registered-in-San-Francisco-Active/funx-qxxn
+  - Most recent update: Week of 6/3/2013
+  - Updates: weekly
+
   
 
   
